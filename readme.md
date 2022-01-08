@@ -6,7 +6,7 @@
 # Usage
 ## Reference Document: <a href="https://helpx.adobe.com/adobe-connect/webservices/topics.html"> Adobe Connect Api Doc </a>
 
-
+# instantiate:
 ```python
 from AdobeConnect import AdobeConnect
 AC = AdobeConnect(base_url='http://yourserver', admin_login="admin login", password="password")
